@@ -1,0 +1,7 @@
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\bin\Debug\estudos_solucoes.exe.config
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\bin\Debug\estudos_solucoes.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\bin\Debug\estudos_solucoes.pdb
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\obj\Debug\estudos_solucoes.csproj.AssemblyReference.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\obj\Debug\estudos_solucoes.csproj.CoreCompileInputs.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\obj\Debug\estudos_solucoes.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETO 1\estudos_solucoes\estudos_solucoes\obj\Debug\estudos_solucoes.pdb
